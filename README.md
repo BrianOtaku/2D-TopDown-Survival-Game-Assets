@@ -1,4 +1,4 @@
-# 2D Survival Game Assets
+# 2D TopDown Survival Game Assets
 
 This repository contains all pixel art assets for the project.
 
